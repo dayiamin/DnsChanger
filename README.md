@@ -15,4 +15,4 @@
 
 # دانلود
 برای دانلود به این آدرس برید
-https://github.com/dayiamin/DnsChanger/blob/main/build/bin/dnsmanager.exe
+https://github.com/dayiamin/DnsChanger/raw/refs/heads/main/build/bin/dnsmanager.exe
