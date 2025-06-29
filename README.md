@@ -7,6 +7,8 @@
 ## روش استفاده
 
 از بین لیست dns های موجود روی یکی کلیک کرده و dns سیستم شما عوض میشود
+
+
 ![DnsManager](https://github.com/user-attachments/assets/95270f16-d14f-41eb-93b6-a6f2fec3fede)
 
 
