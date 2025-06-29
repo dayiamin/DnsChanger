@@ -11,3 +11,8 @@
 
 ## دی ان اس ها
 دی ان اس هایی که استفاده شده ایرانی هستند و برای دور زدن تحریم استفاده میشوند .
+
+
+# دانلود
+برای دانلود به این آدرس برید
+https://github.com/dayiamin/DnsChanger/blob/main/build/bin/dnsmanager.exe
